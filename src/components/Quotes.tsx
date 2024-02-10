@@ -1,4 +1,3 @@
-import axios from "axios";
 import { useCallback, useEffect, useState } from "react"
 import { Card } from "react-bootstrap"
 import { Quote, Quotes } from "../types";
